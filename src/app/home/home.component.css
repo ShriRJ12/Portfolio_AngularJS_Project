@@ -1,0 +1,13 @@
+img{
+  height: 290px;
+  width: 240px;
+  border-radius: 25%;
+  border: 1px solid #655c5c;
+  padding: 7px;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 0.9); /* Change text color */
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: rgba(255, 255, 255, 1); /* Change text color on hover */
+}
